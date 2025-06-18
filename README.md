@@ -2,8 +2,6 @@
 
 A clean and responsive web application that helps users manage plant care schedules — including watering, pruning, and fertilizing reminders — using modern HTML, Tailwind CSS, and JavaScript.
 
-![Screenshot](screenshot.png) <!-- Add an actual screenshot image if needed -->
-
 ---
 
 ## 🚀 Features
@@ -64,13 +62,6 @@ That’s it! No build tools or server setup needed.
 
 ---
 
-## 📸 Demo
-
-(Include a link to your live site if hosted)
-
-**Live Demo:** [Click here](#) <!-- Replace with your live link -->
-
----
 
 ## 📜 License
 
